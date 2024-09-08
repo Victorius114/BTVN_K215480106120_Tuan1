@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform_dll", "..\Win_Form\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web_v1", "..\web_v1\web_v1.csproj", "{B9C0E7EE-6622-40E7-84A2-DE66196AB076}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web_v2", "..\web_v2\web_v2.csproj", "{B6CA3837-9ED6-49A2-BFCB-1B819AD8C1E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B9C0E7EE-6622-40E7-84A2-DE66196AB076}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9C0E7EE-6622-40E7-84A2-DE66196AB076}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9C0E7EE-6622-40E7-84A2-DE66196AB076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CA3837-9ED6-49A2-BFCB-1B819AD8C1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CA3837-9ED6-49A2-BFCB-1B819AD8C1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CA3837-9ED6-49A2-BFCB-1B819AD8C1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CA3837-9ED6-49A2-BFCB-1B819AD8C1E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
