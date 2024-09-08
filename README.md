@@ -8,3 +8,4 @@
 - Tạo console2 chạy chương trình sử dụng .dll
 - Tạo Winform App chạy chương trình sử dụng .dll
 - 18:00 : Tạo được trang web_v1, chưa đưa lên mạng
+- 20:44 : Chuyển về .NET Framework 2.0. Có tạo thêm project web_v2 nhưng chưa có code
