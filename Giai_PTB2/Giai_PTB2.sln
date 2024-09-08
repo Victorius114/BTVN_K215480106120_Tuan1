@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tinh_toan_dung_dll", "..\Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform_dll", "..\Win_Form\Winform_dll.csproj", "{31FEB5B1-32FD-4C2C-8720-FD226876AC26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web_v1", "..\web_v1\web_v1.csproj", "{0BA20123-6E1F-4F70-B32B-40559171AEC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web_v1", "..\web_v1\web_v1.csproj", "{B9C0E7EE-6622-40E7-84A2-DE66196AB076}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{31FEB5B1-32FD-4C2C-8720-FD226876AC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31FEB5B1-32FD-4C2C-8720-FD226876AC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31FEB5B1-32FD-4C2C-8720-FD226876AC26}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0BA20123-6E1F-4F70-B32B-40559171AEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0BA20123-6E1F-4F70-B32B-40559171AEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0BA20123-6E1F-4F70-B32B-40559171AEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0BA20123-6E1F-4F70-B32B-40559171AEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C0E7EE-6622-40E7-84A2-DE66196AB076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C0E7EE-6622-40E7-84A2-DE66196AB076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C0E7EE-6622-40E7-84A2-DE66196AB076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C0E7EE-6622-40E7-84A2-DE66196AB076}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

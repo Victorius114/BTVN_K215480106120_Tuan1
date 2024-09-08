@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Web.UI;
+using System.Web.UI.WebControls;
 
 namespace webABC
 {
@@ -7,6 +8,7 @@ namespace webABC
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            // Code xử lý khi tải trang
         }
 
         protected void Button1_Click(object sender, EventArgs e)
@@ -29,12 +31,12 @@ namespace webABC
             }
             else
             {
-                double x1 = (-b + Math.Sqrt(delta)) / (2 * a);
-                double x2 = (-b - Math.Sqrt(delta)) / (2 * a);
+                double x1 = (-b - Math.Sqrt(delta)) / (2 * a);
+                double x2 = (-b + Math.Sqrt(delta)) / (2 * a);
                 result = $"Phương trình có hai nghiệm: x1 = {x1}, x2 = {x2}";
             }
 
-            ketqua.InnerHtml = result; // Hiển thị kết quả trên trang
+            ketqua.InnerHtml = result;
         }
     }
 }
