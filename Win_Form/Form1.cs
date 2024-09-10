@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Win_Form
@@ -20,7 +18,7 @@ namespace Win_Form
         private void button1_Click(object sender, EventArgs e)
         {
             int a, b, c;
-            double x, x1, x2, delta;
+            double delta;
             a = int.Parse(A.Text);
             b = int.Parse(B.Text);
             c = int.Parse(C.Text);

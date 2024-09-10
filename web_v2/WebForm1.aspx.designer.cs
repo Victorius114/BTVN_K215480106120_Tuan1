@@ -11,7 +11,7 @@ namespace web_v2
 {
 
 
-    public partial class api
+    public partial class WebForm1
     {
     }
 }

@@ -12,21 +12,21 @@
     <form id="form1" runat="server">
         <table>
             <tr>
-                <td class="nhan_nhap_so">Nhập a: 
+                <td>Nhập a: 
                 </td>
                 <td>
                     <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
                 </td>
             </tr>
             <tr>
-                <td class="nhan_nhap_so">Nhập b: 
+                <td>Nhập b: 
                 </td>
                 <td>
                     <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
                 </td>
             </tr>
             <tr>
-                <td class="nhan_nhap_so">Nhập c: 
+                <td class>Nhập c: 
                 </td>
                 <td>
                     <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
