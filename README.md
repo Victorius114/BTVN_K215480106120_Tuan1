@@ -12,3 +12,6 @@
 
 9/9/2024:
 - 2:15 : Tạo ra được giao diện web_v2 nhưng chưa chạy được
+
+10/9/2024:
+- Đã hoàn thành web_v2 và đã trả về json
