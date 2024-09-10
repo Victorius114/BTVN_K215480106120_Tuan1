@@ -15,3 +15,4 @@
 
 10/9/2024:
 - Đã hoàn thành web_v2 và đã trả về json
+- 23:21 : Sửa lỗi Microsoft.CodeDom.Providers.DotNetCompilerPlatform không tương thích
